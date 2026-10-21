@@ -1,0 +1,15 @@
+{
+  "id": "bfme2",
+  "name": "The Battle for Middle-earth II",
+  "executables": [
+    "lotrbfme2.exe",
+    "game.dat"
+  ],
+  "status": "experimental",
+  "runtime": "not-integrated",
+  "resolution": {
+    "width": 800,
+    "height": 600
+  },
+  "notes": "Game files are user-supplied. Compatibility options require device validation."
+}
